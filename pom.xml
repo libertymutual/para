@@ -3,7 +3,7 @@
 
 	<groupId>com.erudika</groupId>
 	<artifactId>para-parent</artifactId>
-	<version>1.50.1-SNAPSHOT</version>
+	<version>1.50.8</version>
 	<packaging>pom</packaging>
 
 	<organization>
